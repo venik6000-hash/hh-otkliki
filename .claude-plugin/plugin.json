@@ -1,0 +1,9 @@
+{
+  "name": "hh-otkliki",
+  "version": "1.0.0",
+  "description": "Отклики на hh.ru с персональными сопроводительными письмами: настройка под человека, отбор вакансий, письма по фактам, отправка и сверка статусов.",
+  "author": { "name": "venik6000-hash" },
+  "repository": "https://github.com/venik6000-hash/hh-otkliki",
+  "license": "MIT",
+  "keywords": ["hh.ru", "headhunter", "job-search", "cover-letter", "поиск работы"]
+}

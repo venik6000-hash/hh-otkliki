@@ -1,0 +1,11 @@
+{
+  "name": "hh-otkliki",
+  "owner": { "name": "venik6000-hash" },
+  "plugins": [
+    {
+      "name": "hh-otkliki",
+      "source": "./",
+      "description": "Отклики на hh.ru с персональными сопроводительными письмами."
+    }
+  ]
+}
